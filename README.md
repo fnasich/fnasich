@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @fnasich
+- 🌱 I’m currently in MercadoLibre´s mobile bootcamp
