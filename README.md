@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fnasich
-- 🌱 I’m currently in MercadoLibre´s mobile bootcamp
+- 👋 Hi, I’m Francisco Nasich
+- 🥷🏼 I’m currently in MercadoLibre´s Credit Consumer Originations team
 
 ### iOS Developer 
 
